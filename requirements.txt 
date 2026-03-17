@@ -1,5 +1,0 @@
-streamlit==1.55.0
-pandas
-numpy
-plotly==5.18.0
-PyPDF2
